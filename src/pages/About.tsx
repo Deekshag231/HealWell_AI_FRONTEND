@@ -19,7 +19,7 @@ export default function About() {
   const teamMembers = [
     {
       name: 'Devesh Chaudhary',
-      role: 'Medical Advisor & Co-Founder',
+      role: 'Frontend & Ideation lead',
       description: 'Board-certified physician with 15+ years of experience in preventive medicine and wellness.',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400'
     },
@@ -31,7 +31,7 @@ export default function About() {
     },
     {
       name: 'Devansh Bansal',
-      role: 'Nutrition & Wellness Expert',
+      role: 'Backend Developer',
       description: 'Certified nutritionist and yoga instructor specializing in holistic health approaches.',
       image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400'
     },
