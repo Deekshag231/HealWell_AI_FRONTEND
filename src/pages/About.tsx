@@ -369,7 +369,7 @@ export default function About() {
           </div>
           
           <div className="pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>© 2025 HEALWELL AI. All rights reserved.</p>
+            <p>© 2025 HEALWELL AI. All rights reserved</p>
           </div>
         </div>
       </footer>
