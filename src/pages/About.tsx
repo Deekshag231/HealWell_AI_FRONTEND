@@ -18,25 +18,25 @@ export default function About() {
 
   const teamMembers = [
     {
-      name: 'Dr. Sarah Johnson',
+      name: 'Devesh Chaudhary',
       role: 'Medical Advisor & Co-Founder',
       description: 'Board-certified physician with 15+ years of experience in preventive medicine and wellness.',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400'
     },
     {
-      name: 'Alex Chen',
+      name: 'Deeskha Gupta',
       role: 'AI Engineer & Co-Founder',
       description: 'ML specialist focused on healthcare AI with expertise in natural language processing and medical data analysis.',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400'
     },
     {
-      name: 'Dr. Priya Patel',
+      name: 'Devansh Bansal',
       role: 'Nutrition & Wellness Expert',
       description: 'Certified nutritionist and yoga instructor specializing in holistic health approaches.',
       image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400'
     },
     {
-      name: 'Michael Brown',
+      name: 'Divyansh Yadav',
       role: 'Full Stack Developer',
       description: 'Software engineer passionate about creating accessible healthcare technology solutions.',
       image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400'
