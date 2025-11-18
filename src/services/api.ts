@@ -57,7 +57,7 @@ api.interceptors.response.use(
       });
     } else if (error.request) {
       // Request was made but no response
-      console.error('Network Error:', {
+      console.error('Server Error:', {
         message: 'No response from server',
         url: error.config?.url
       });
