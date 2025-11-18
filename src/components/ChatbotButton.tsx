@@ -7,8 +7,6 @@ export default function ChatbotButton() {
   const { user } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
-
-  // Don't render on the chatbot page itself
   if (location.pathname === "/chatbot") {
     return null;
   }
