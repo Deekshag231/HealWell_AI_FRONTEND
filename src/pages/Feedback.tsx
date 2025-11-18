@@ -37,7 +37,7 @@ export default function Feedback() {
     });
     storage.setItem('feedbacks', JSON.stringify(feedbacks));
 
-    toast.success('Thank you for your feedback! We appreciate your input.');
+    toast.success('Thank you for your feedback! We appreciate your efforts.');
     setFormData({ name: '', age: '', city: '', feedback: '', rating: 0 });
   };
 
@@ -168,7 +168,7 @@ export default function Feedback() {
               </div>
               <h3 className="text-gray-900 dark:text-white mb-2">Share Ideas</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm">
-                Suggest new features or improvements
+                Suggest new features or improvements!
               </p>
             </div>
 
