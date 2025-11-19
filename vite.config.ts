@@ -7,6 +7,7 @@
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
+      // Avoid bundling duplicate copies of react & react-dom
       dedupe: ['react', 'react-dom'],
       alias: {
         'vaul@1.1.2': 'vaul',
